@@ -1,0 +1,20 @@
+name: ocng_class
+channels:
+  - conda-forge
+  - intake
+  - default
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pandas
+  - xarray
+  - matplotlib
+  - dask
+  - distributed
+  - ipykernel
+
+  
+
+
+
