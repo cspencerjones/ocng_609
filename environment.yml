@@ -13,7 +13,7 @@ dependencies:
   - dask
   - distributed
   - ipykernel
-
+  - pydap
   
 
 
